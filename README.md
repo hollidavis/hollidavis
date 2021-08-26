@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Holli Davis. I am currently a full stack web development student at Boise CodeWorks! My first dive into the professional world was in the medical field. I spent 4 years working as a Medical Assistant & Phelbotomist. During that time I started to get involved with Twitch. I started streaming and through that found a communtiy of software developers who helped turn my love of puzzle solving, into a love of software development.
+My name is Holli Davis. I am currently a full stack web development student at Boise CodeWorks! My first dive into the professional world was in the medical field. I spent 4 years working as a Medical Assistant & Phelbotomist. During that time I started to get involved with Twitch. I started streaming and through that found a community of software developers who helped turn my love of puzzle solving, into a love of software development.
 
 One of the biggest things that drew me to software development was that it combined my creative nature with my love of technology. Add in my knack for puzzles and you can see why I chose to pursue this field!
 
