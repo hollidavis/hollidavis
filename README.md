@@ -1,11 +1,11 @@
 ## Hello 👋
 
-My name is Holli Davis. I am currently a full stack web development student at Boise CodeWorks! My first dive into the professional world was in the medical field. I spent 4 years working as a Medical Assistant & Phelbotomist. During that time I started to get involved with Twitch. I started streaming and through that found a community of software developers who helped turn my love of puzzle solving, into a love of software development.
+My name is Holli Davis. I am currently a full stack web developer! My first dive into the professional world was in the medical field. I spent nearly 3 years working in a variety of positions ranging from Med Tech to Medical Assistant. I was also attending nursing school and planned on furthering my career in medicine. During that time I started to get involved with Twitch. I started streaming and through that found a community of software developers who helped turn my love of creating and puzzle solving into a love of software development. I decided to make a career change and enrolled in Boise CodeWorks immersive software development bootcamp.
 
-One of the biggest things that drew me to software development was that it combined my creative nature with my love of technology. Add in my knack for puzzles and you can see why I chose to pursue this field!
+Ever since I was young I've been drawn to creating new things, solving puzzles, and technology. Creativity was the biggest missing piece in my previous career field. When I started to pursue software development I discovered a solution to that problem. I found a career path that allowed me to combined my creative nature with my love of technology. Add in my knack for puzzles and you can see why I chose this field!
 
 
-💻 Currently developing skills in: HTML • CSS • Bootstrap • Javascript • Vue • Node • Mongo.db • C# • DotNet Core • MySQL • Agile/Scrum
+💻 Skilled in: HTML • CSS • Bootstrap • Javascript • Vue • Node • Mongo.db • C# • DotNet Core • MySQL • Agile/Scrum
 
 🛬 [Check out my landing page & portfolio!](https://hollidavis.github.io)
 
