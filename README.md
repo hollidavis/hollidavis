@@ -13,7 +13,7 @@ Ever since I was young I've been drawn to creating new things, solving puzzles, 
 
 📧 [hollidavis19@gmail.com](mailto:hollidavis19@gmail.com)
 
-🔗 [LinkedIn](www.linkedin.com/in/holli-davis)
+🔗 [LinkedIn](https://www.linkedin.com/in/holli-davis/)
 
 ## A bit about me!
 
