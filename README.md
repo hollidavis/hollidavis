@@ -26,10 +26,13 @@ Ever since I was young I've been drawn to creating new things, solving puzzles, 
 ⛺ I adore hiking, camping, and hammocking
 
 <div>
+  <a href='#'>
 <img src="https://github-readme-stats.vercel.app/api?username=hollidavis&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+  </a>
+ <a href='#'> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollidavis&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>
 </div>
-
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow."
 >
