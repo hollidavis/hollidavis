@@ -1,29 +1,14 @@
-## Hello 👋
+## Hello World👋
 
-My name is Holli Davis. I am currently a full stack web developer! My first dive into the professional world was in the medical field. I spent nearly 3 years working in a variety of positions ranging from Med Tech to Medical Assistant. I was also attending nursing school and planned on furthering my career in medicine. During that time I started to get involved with Twitch. I started streaming and through that found a community of software developers who helped turn my love of creating and puzzle solving into a love of software development. I decided to make a career change and enrolled in Boise CodeWorks immersive software development bootcamp.
+My name is Holli Davis and I'm a full-stack software engineer! My first venture into the professional world was in the medical field. I spent 3+ years in the medical field constantly learning and gaining certifications so I could better serve my patients. At the start of the pandemic, I connected with a community of software developers who introduced me to the world of code. I immediately fell in love with development. I love the challenge found in problem-solving and the opportunity to be creative when building applications. I decided to make a career change and enrolled in Boise CodeWorks full-stack software development bootcamp. There I participated in over 500 hours of hands-on coding experience over the course of 13 weeks. My development skills grew immensely and after graduation I started putting them to use as a professional software engineer!
 
-Ever since I was young I've been drawn to creating new things, solving puzzles, and technology. Creativity was the biggest missing piece in my previous career field. When I started to pursue software development I discovered a solution to that problem. I found a career path that allowed me to combined my creative nature with my love of technology. Add in my knack for puzzles and you can see why I chose this field!
+💻 Skilled in: Angular • TypeScript • NgRx • Cypress • Jest • HTML • CSS • JavaScript • Vue.js • Node.js • .Net Core • C# • SQL
 
-
-💻 Skilled in: HTML • CSS • Bootstrap • Javascript • Vue • Node • Mongo.db • C# • DotNet Core • MySQL • Agile/Scrum
-
-🛬 [Check out my landing page & portfolio!](https://hollidavis.github.io)
-
-## Connect with me
+## Connect with me!
 
 📧 [hollidavis19@gmail.com](mailto:hollidavis19@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/holli-davis/)
-
-## A bit about me!
-
-🎲 Board game enthusiast 
-
-⚔ I love playing Dungeons & Dragons (wizards are my favorite)
-
-🎮 Video games are a hobby of mine and I even stream them on my Twitch
-
-⛺ I adore hiking, camping, and hammocking
 
 <div>
   <a href='#'>
@@ -33,8 +18,3 @@ Ever since I was young I've been drawn to creating new things, solving puzzles, 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollidavis&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
   </a>
 </div>
-
->"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow."
->
->\- Carrie Fisher
-<!--
