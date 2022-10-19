@@ -1,4 +1,4 @@
-## Hello World👋
+## Hello World 👋
 
 My name is Holli Davis and I'm a full-stack software engineer! At the start of the pandemic, I (like many people) decided to learn a new skill. I connected with a community of software developers online who introduced me to the world of code and I immediately fell in love with development. I loved the challenge found in problem-solving and the opportunity to be creative when building applications. 
 
