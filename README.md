@@ -8,8 +8,6 @@ Before being introduced to software development, I worked in the medical field f
 
 ## Connect with me!
 
-📧 [hollidavis19@gmail.com](mailto:hollidavis19@gmail.com)
-
 🔗 [LinkedIn](https://www.linkedin.com/in/holli-davis/)
 
 <div>
